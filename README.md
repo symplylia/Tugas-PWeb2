@@ -7,7 +7,7 @@ Saya Putri Aulia, seorang mahasiswa Semester 3 di Program Studi Teknik Informati
 
 - [JobSheet_1](https://github.com/symplylia/Tugas-PWeb2/tree/main/jobsheet1)
 - [JobSheet 2](https://github.com/symplylia/Tugas-PWeb2/tree/main/jobsheet2)
-- [JobSheet 3](link-ke-jobsheet3)
+- [JobSheet 3](https://github.com/symplylia/Tugas-PWeb2/tree/main/jobsheet3)
 
 ## OOP PHP Introduction
 
