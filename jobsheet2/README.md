@@ -1,4 +1,4 @@
-# Jobsheet 2 : Menggunakan Konsep Kelas dan Objek dalam PHP
+![tugas](https://github.com/user-attachments/assets/36d1b32d-bb53-4e7b-a176-da3ec181ca3d)![construct](https://github.com/user-attachments/assets/bdaee26a-b174-4e5a-aa0c-57f6eaa3ef75)# Jobsheet 2 : Menggunakan Konsep Kelas dan Objek dalam PHP
 # Tujuan
 Pada jobsheet kali ini, mahasiswa diharapkan dapat menerapkan konsep kelas dan objek dalam PHP dengan mengikuti serangkaian instruksi dan tugas yang berfokus pada pembuatan dan penggunaan kelas serta objek.
 
@@ -27,8 +27,11 @@ Pada jobsheet kali ini, mahasiswa diharapkan dapat menerapkan konsep kelas dan o
   echo $mahasiswa->tampilData();
   ```
 - **Kode lengkap**
+![class object](https://github.com/user-attachments/assets/9d04639f-7415-4b6e-84a4-db82968e44e6)
 
 - **Output**
+![Screenshot 2024-09-12 083524](https://github.com/user-attachments/assets/2909b338-2105-4c76-ab35-744c085ab90e)
+
 
 ### 2. Implementasi Constructor
 - Tambahkan construct pada class Mahasiswa untuk menginisialisasi atribut dari objek seperti nama, nim, dan jurusan.
@@ -39,9 +42,13 @@ Pada jobsheet kali ini, mahasiswa diharapkan dapat menerapkan konsep kelas dan o
         $this->nip = $nip;
         $this->mataKuliah = $mataKuliah;
   ```
-- **Kode lengkap**
+**Kode lengkap**
+![construct](https://github.com/user-attachments/assets/0b163169-22ba-4991-b27e-0407697ac8ae)
+
 
 - **Output**
+![Screenshot 2024-09-12 083702](https://github.com/user-attachments/assets/6173e0d7-267a-4591-88b4-c21afc1e6609)
+
 
 ## 3. Membuat Metode Tambahan
 - Buat metode updateJurusan() pada class Mahasiswa
@@ -60,8 +67,10 @@ Pada jobsheet kali ini, mahasiswa diharapkan dapat menerapkan konsep kelas dan o
   $mahasiswa->updateJurusan("JKB");
   ```
 - **Kode lengkap**
+![tambahan](https://github.com/user-attachments/assets/b76ffc9f-5eab-461d-8c5f-efc338ac3e91)
 
 - **Output**
+![Screenshot 2024-09-12 083834](https://github.com/user-attachments/assets/5f1da9ea-6399-4993-b019-e104094d8fb0)
 
 ## 4. Penggunaan Atribut dan Metode
 - Ubah nilai yang terdapat pada atribut nim dari object Mahasiswa menggunakan metode **setter**. Sebelum itu buat metode get dan set terlebih dahulu
@@ -90,8 +99,10 @@ Pada jobsheet kali ini, mahasiswa diharapkan dapat menerapkan konsep kelas dan o
   echo $mahasiswa->tampilData();
   ```
 - **Kode lengkap**
+![atribut](https://github.com/user-attachments/assets/8b49165a-4a4f-45f2-9e6e-14ef79653a5e)
 
 - **Output**
+![Screenshot 2024-09-12 084113](https://github.com/user-attachments/assets/8d403450-ed9a-4a2b-b70b-df2b901c3850)
 
 # Tugas
 ## 1. Implementasikan class Dosen
@@ -122,9 +133,12 @@ class Dosen {
 $dosen1 = new Dosen("Annas Setiawan", "09876543", "Basis Data");
 echo $dosen1->tampilkanDosen();
 ```
+
 - **Kode lengkap**
+![tugas](https://github.com/user-attachments/assets/64f4364b-1091-4166-9fda-98815760c517)
 
 - **Output**
-  
+  ![Screenshot 2024-09-12 084137](https://github.com/user-attachments/assets/70f3176e-014c-434f-838a-f6555cb36117)
+
 
   
