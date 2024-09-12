@@ -37,6 +37,10 @@ Pada jobsheet ini diharapkan setiap mahasiswa dapat menerapkan prinsip OOP pada 
       }
     }
     ```
+  - **Kode lengkap**
+
+    ![inher](https://github.com/user-attachments/assets/cd1fa9ff-ab47-4ed6-b7cf-9e3561783976)
+
 
 ## 2. Polymorphism
 - Buat class Teacher yang mewarisi class Person dan tambah atribut teacherID.
@@ -56,6 +60,10 @@ Pada jobsheet ini diharapkan setiap mahasiswa dapat menerapkan prinsip OOP pada 
         return $this->teacherID; 
     }
     ```
+  - **Kode lengkap**
+
+    ![poly](https://github.com/user-attachments/assets/edcadba7-216d-41c0-b0c8-45b69672fe9c)
+
 
   ## 3. Encapsulation
   - Ubah atribut studentID pada class Student menjadi private
@@ -80,6 +88,9 @@ Pada jobsheet ini diharapkan setiap mahasiswa dapat menerapkan prinsip OOP pada 
         $this->studentID = $studentID;
     }
     ```
+- **Kode lengkap**
+
+  ![encap](https://github.com/user-attachments/assets/da4d59b6-ecb3-47a7-b5a6-9326c78209fd)
 
   ## 4. Abstraction
   - Buat class abstract Course menggunakan metode abstract getCourseDetails().
@@ -137,8 +148,8 @@ Pada jobsheet ini diharapkan setiap mahasiswa dapat menerapkan prinsip OOP pada 
       }
       ```
   - **Kode lengkap**
+    ![abstract](https://github.com/user-attachments/assets/546947c9-89e7-4f50-8922-b416606f5345)
 
-  - **Output**
 
   # Tugas
   ## 1. Implementasi class Person
@@ -264,4 +275,10 @@ Pada jobsheet ini diharapkan setiap mahasiswa dapat menerapkan prinsip OOP pada 
   ```
 - **Kode lengkap**
   
+  ![tugas](https://github.com/user-attachments/assets/36f1d5a1-dcfb-45b2-a41d-6b068b4bd89c)
+
 - **Output**  
+
+  ![Screenshot 2024-09-12 090052](https://github.com/user-attachments/assets/f2128c6c-41c4-459c-a0f0-e04f6bfa8726)
+
+  
