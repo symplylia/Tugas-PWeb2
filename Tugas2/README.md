@@ -126,6 +126,32 @@ Pada file ini berisi tampungan dari metode polymophism dimana hanya menampilkan 
             ?>
         </table>
   ```
+# Address.php
+Pada file ini berisi tampungan dari metode polymophism dimana hanya menampilkan data yang kita inginkan atau kita panggil
+- Contoh Code
+  ```php
+  <div class="content">
+        <h1>Data Mahasiswa Spesifik</h1>
+        <table>
+            <tr>
+                <th>NIM</th>
+                <th>Name</th>
+                <th>Address</th>
+            </tr>
+            <?php 
+            foreach($rincian_TiB as $row){
+                ?>
+                <tr>
+                    <td><?php echo $row['nim']; ?></td>
+                    <td><?php echo $row['name']; ?></td>
+                    <td><?php echo $row['address']; ?></td>
+                </tr>
+                <?php 
+            }
+            ?>
+        </table>
+```
+
 # Index.php
 Pada index.php ini berfungsi untuk membuat tampilan awal atau tampilan menu agar terlihat lebih tersusun rapi dan untuk menampilkan data-data yang sudah kita buat dalam satu tampilan.
 - Contoh Code
@@ -155,6 +181,11 @@ Pada tuugas kali ini juga saya menggunakan boostrap untuk mempercantik tampilan 
 - khusus.php
 
   ![khusus](https://github.com/user-attachments/assets/6f09d415-e572-4233-acf9-8f048d9ecd34)
+
+- address.php
+
+  ![address](https://github.com/user-attachments/assets/2bb6d95a-5bf2-4db8-92b1-59bf3cd197b4)
+
 
 - index.php
 
